@@ -1,6 +1,6 @@
 jQuery.fn.extend({
 
-  modifiable: function() {
+  jmodifiable: function() {
 
     function bindFormChange($form) {
 
