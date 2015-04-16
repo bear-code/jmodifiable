@@ -10,5 +10,5 @@ There is hidden property for each input element on the form that you can use to 
 
 Can be used as simple as
 ````
-$('form[data-object="examination-cycle-form"]').modifiable();
+$('form[data-object="some-form"]').modifiable();
 ````
